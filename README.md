@@ -46,7 +46,6 @@ pip install --editable ./
 ```bash
 pip install -r requirements.txt
 ```
-AV-HuBERT Large	LRS3 + VoxCeleb2 (En)	No finetuning
 ### Download AV-Hubert weights :
 For downloading AV-HuBERT weights, use this [repo](https://facebookresearch.github.io/av_hubert/). Available weights:
 
