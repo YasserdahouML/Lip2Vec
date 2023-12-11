@@ -3,7 +3,6 @@
 This repository contains a PyTorch implementation and pretrained models for **Lip2Vec**, a novel method for Visual Speech Recognition. For a deeper understanding of the method, refer to the paper 
 [**Lip2Vec: Efficient and Robust Visual Speech Recognition via Latent-to-Latent Visual to Audio Representation Mapping**](https://openaccess.thecvf.com/content/ICCV2023/papers/Djilali_Lip2Vec_Efficient_and_Robust_Visual_Speech_Recognition_via_Latent-to-Latent_Visual_ICCV_2023_paper.pdf).
 
-Djilali, Yasser Abdelaziz Dahou, et al. "Lip2Vec: Efficient and Robust Visual Speech Recognition via Latent-to-Latent Visual to Audio Representation Mapping." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
 
 # Lip2Vec Inference:
 
