@@ -73,3 +73,14 @@ torchrun --nproc_per_node=4 main_test.py \
 
 ## Acknowledgement
 The repository is based on [av-hubert](https://github.com/facebookresearch/av_hubert), [vsr](https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages), [detr](https://github.com/facebookresearch/detr)
+
+## Citation
+```bash
+@inproceedings{djilali2023lip2vec,
+  title={Lip2Vec: Efficient and Robust Visual Speech Recognition via Latent-to-Latent Visual to Audio Representation Mapping},
+  author={Djilali, Yasser Abdelaziz Dahou and Narayan, Sanath and Boussaid, Haithem and Almazrouei, Ebtessam and Debbah, Merouane},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={13790--13801},
+  year={2023}
+}
+```
