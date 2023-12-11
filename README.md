@@ -38,7 +38,6 @@ git clone https://github.com/facebookresearch/av_hubert.git
 cd avhubert
 git submodule init
 git submodule update
-git clone https://github.com/pytorch/fairseq
 cd fairseq
 pip install --editable ./
 ```
