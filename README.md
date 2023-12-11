@@ -28,7 +28,7 @@ cd Lip2Vec
 ```
 ### Set up environment:
 ```bash
-conda create -y -n lip2vec
+conda create -y -n lip2vec python=3.10
 conda activate lip2vec
 ```
 
