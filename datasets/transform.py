@@ -4,8 +4,6 @@
 # Copyright 2021 Imperial College London (Pingchuan Ma)
 # Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
 import random
-import torch
-import cv2
 import numpy as np
 from scipy import signal
 from torchvision.transforms import (

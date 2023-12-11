@@ -8,7 +8,6 @@ import sys
 
 
 import cv2
-import pickle
 import numpy as np
 from .preprocess import *
 from .transform import *
