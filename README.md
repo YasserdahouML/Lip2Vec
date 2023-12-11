@@ -70,3 +70,6 @@ torchrun --nproc_per_node=4 main_test.py \
 - data_path: Directory to the LRS3 test set videos
 - prior_path: Path to the prior network checkpoint
 - av-hubert_path: Path to the AV-Hubert weights
+
+## Acknowledgement
+The repository is based on [av-hubert](https://github.com/facebookresearch/av_hubert), [vsr](https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages), [detr](https://github.com/facebookresearch/detr)
