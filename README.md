@@ -16,8 +16,8 @@ The video representations computed by the video encoder are input to our learned
 
 | arch      | params | WER  | download |
 |-----------|--------|------|----------|
-| Lip2Vec-Base Low-Ressources | 43M   | 30.2 | [weights](https://drive.google.com/file/d/1NfTZgzGjjQVDFdIZsVwjqqgQHqeb194h/view?usp=drive_link) |
-| Lip2Vec-Large Low-Ressources | 43M   | 42.6 | [weights](https://drive.google.com/file/d/132vaCJnLH9WCh1gO-9vNOQ-nLJIohQZ6/view?usp=drive_link) |
+| Lip2Vec-Large Low-Ressources | 43M   | 30.2 | [weights](https://drive.google.com/file/d/1NfTZgzGjjQVDFdIZsVwjqqgQHqeb194h/view?usp=drive_link) |
+| Lip2Vec-Base Low-Ressources | 43M   | 42.6 | [weights](https://drive.google.com/file/d/132vaCJnLH9WCh1gO-9vNOQ-nLJIohQZ6/view?usp=drive_link) |
 
 ## Setup
 
